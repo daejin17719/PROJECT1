@@ -97,3 +97,4 @@ int main(int argc, char *argv[]) {
 }
 
 //커밋 익히기 (테스트는 마지막이길...)
+//테스트용 터미널 값 ./main input/input_0.txt output/output_0.txt
